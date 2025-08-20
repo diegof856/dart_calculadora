@@ -11,6 +11,23 @@ Calculadora simples de linha de comando desenvolvida em Dart.
 ## 🛠️ Como usar
 
 1. Clone o repositório:
-
    ```bash
-   git clone https://github.com/diegof856/dart_calculadora.git
+     git clone https://github.com/diegof856/dart_calculadora.git
+   ```
+2. Navegue até o diretório do projeto:
+ ```bash
+   cd dart_calculadora
+```
+3. Execute o programa:
+ ```bash
+   dart run
+```
+
+
+
+
+
+
+
+
+
