@@ -1,38 +1,44 @@
-# =====================
-# Java
-# =====================
-*.class
-*.jar
-*.war
-*.ear
-*.nar
-*.zip
-*.tar.gz
-*.rar
-
-# Diretórios de build
-bin/
+# Dart/Pub
+.packages
+.pub/
 build/
-out/
-target/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.pub-cache/
 
-# Logs e arquivos temporários
-*.log
-*.tmp
-*.bak
-*.swp
+# Flutter
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
 
-# =====================
-# IntelliJ IDEA
-# =====================
-.idea/
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# IntelliJ / Android Studio
 *.iml
-*.iws
+.idea/
 *.ipr
-out/
+*.iws
 
-# =====================
-# Sistema
-# =====================
-.DS_Store
-Thumbs.db
+# VS Code
+.vscode/
+
+# Log files
+*.log
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Temporary files
+*.tmp
+*.swp
+*.lock
