@@ -62,6 +62,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "expressions",
+      "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/expressions-0.2.5+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "file",
       "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
@@ -152,6 +158,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
       "name": "pool",
       "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/pool-1.5.1",
       "packageUri": "lib/",
@@ -162,6 +174,18 @@
       "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/pub_semver-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/quiver-3.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///C:/Users/Diego%20Felipe/AppData/Local/Pub/Cache/hosted/pub.dev/rxdart-0.28.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "shelf",
